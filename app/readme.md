@@ -21,13 +21,7 @@ The error_log.log gives an example of how the system logs the errors.
 The mealfix database is in with the main files a spare flat database is kept in the db folder. 
 To view the database you can use DB Browser application. 
 
-## Passwords
-
-You can sign in using the admin account. 
-Username: admin@mealfix.com
-Password: Password1 
-          ^
-or 
+## Account
 
 You can create an account with dummy credentials. 
 Password validation is in place it must contain 
