@@ -20,7 +20,7 @@ The error_log.log gives an example of how the system logs the errors.
 
 ## Database
 
-The mealfix database is in with the main files a spare flat database is kept in the db folder. 
+The mealfix database is a sqlite database this is in with the main files a spare flat database is kept in the db folder. 
 To view the database you can use DB Browser application. 
 
 ## Accounts
